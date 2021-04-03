@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @sedrman
-- 👀 I’m interested in coding and gaming
-
+- 👋 (Türkçe/Turkish)   : Merhaba!,Ben Serdar 15 Yaşındayım, Türkiyede Yaşıyorum.
+- 👋 (İngilize/English) : Hello!, I Serdar 15 years old, I live in Turkey.
+- 👀 (Türkçe/Turkish)   : Ben Genellikle Python veya C# üzerinde Çalışıyorum.
+- 👀 (İngilize/English) : I usually work on Python or C #.
