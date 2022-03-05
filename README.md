@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sedrman&label=G%C3%B6r%C3%BCnt%C3%BCleme&color=084063&style=flat" alt="sedrman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sedrman" alt="sedrman" /></a> </p>
+<p align="left"> <a href="https://github.com/sedrman"><img src="https://github-profile-trophy.vercel.app/?username=sedrman&theme=onestar" alt="sedrman" /></a> </p>
 
 - 🌱 Şuan da öğrendiklerim: **Python ve C#**
 
