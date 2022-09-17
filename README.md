@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Serdar Sunman.</h1>
-<h3 align="center">Python ve C# dillerinde kendimi geliştiriyorum.</h3>
+<h3 align="center">HTML&CSS&JS dillerinde kendimi geliştiriyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sedrman&label=G%C3%B6r%C3%BCnt%C3%BCleme&color=084063&style=flat" alt="sedrman" /> </p>
 
