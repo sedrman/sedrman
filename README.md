@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/sedrman"><img src="https://github-profile-trophy.vercel.app/?username=sedrman&theme=onestar" alt="sedrman" /></a> </p>
 
-- 🌱 Şuan da öğrendiklerim: **Python ve C#**
+- 🌱 Şuan da öğrendiklerim: **HTML&CSS&JS**
 
 - 📫 Bana ulaş: **serdarsunman@asnus.com**
 
